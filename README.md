@@ -20,11 +20,12 @@ bash <(curl -s https://raw.githubusercontent.com/secretsystems/one_line_dero_nod
 
 # android
 
-# full-node
+## full-node
 For an [android full node](https://github.com/secretsystems/one_line_dero_node/blob/main/android/full), drop the command in your terminal and press enter.
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/secretsystems/one_line_dero_node/main/android/full)
+```
 
 ## fastsync node
 For an [android fastsync node](https://github.com/secretsystems/one_line_dero_node/blob/main/android/fastsync), drop the command in your terminal and press enter.
