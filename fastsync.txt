@@ -1,3 +1,2 @@
-```
 echo -e "sudo apt install xfsprogs ntpdate \nsudo fallocate -l 100G dataFsFile \nsudo mkfs.xfs -f  -i maxpct=100 -m crc=0 -i size=256 -b size=512 dataFsFile \nsudo mkdir dNodedata \nsudo chmod -R 777 dNodedata \nsudo mount dataFsFile dNodedata \ncd dNodedata \npwd \nsudo wget https://github.com/deroproject/derohe/releases/latest/download/dero_linux_amd64.tar.gz \nsudo tar xvzf dero_linux_amd64.tar.gz \nsudo rm dero_linux_amd64.tar.gz -f \ncd dero_linux_amd64 \npwd \nsudo ./derod-linux-amd64 --fastsync" > installderonode.sh | chmod +x installderonode.sh && sudo ./installderonode.sh
-```
+
