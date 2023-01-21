@@ -24,7 +24,7 @@ For an [android fastsync node](https://github.com/secretsystems/one_line_dero_no
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/secretsystems/one_line_dero_node/main/android/fastsync)
-
+```
 
 # windows
 TODO
