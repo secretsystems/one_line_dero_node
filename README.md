@@ -5,7 +5,11 @@ Basically the easiest way to launch a node is to have a script do it for you.
 # linux
 
 ## full-node
-TODO
+For a [full](https://github.com/secretsystems/one_line_dero_node/blob/main/linux/full) node, drop the command in your terminal and press enter.
+
+```
+bash <(curl -s https://raw.githubusercontent.com/secretsystems/one_line_dero_node/main/linux/full)
+```
 
 ## fastsync node
 For a [fastsync](https://github.com/secretsystems/one_line_dero_node/blob/main/linux/fastsync) node, drop the command in your terminal and press enter.
