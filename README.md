@@ -1,6 +1,8 @@
 # one_line_dero_node
 
-Basically the easiest way to launch a node is to have a script do it for you. And so have your terminal echo all the commands you give it and append them into an file called `installnode.sh`. Then make that file executable and run it. Simple as...
+Basically the easiest way to launch a node is to have a script do it for you. And so, have your terminal echo all the commands you give it and append them into an file called `installnode.sh`. Then make that file executable and run it. 
+
+But seeing as that's a lot of typing. Just curl the templates I already made into your terminal. Simple as...
 
 # linux
 
