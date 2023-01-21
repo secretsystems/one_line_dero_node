@@ -5,21 +5,26 @@ Basically the easiest way to launch a node is to have a script do it for you.
 # linux
 
 ## full-node
-For a [full](https://github.com/secretsystems/one_line_dero_node/blob/main/linux/full) node, drop the command in your terminal and press enter.
+For a [linux full node](https://github.com/secretsystems/one_line_dero_node/blob/main/linux/full), drop the command in your terminal and press enter.
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/secretsystems/one_line_dero_node/main/linux/full)
 ```
 
 ## fastsync node
-For a [fastsync](https://github.com/secretsystems/one_line_dero_node/blob/main/linux/fastsync) node, drop the command in your terminal and press enter.
+For a [linux fastsync node](https://github.com/secretsystems/one_line_dero_node/blob/main/linux/fastsync), drop the command in your terminal and press enter.
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/secretsystems/one_line_dero_node/main/linux/fastsync)
 ```
 
 # android
-TODO
+## fastsync node
+For an [android fastsync node](https://github.com/secretsystems/one_line_dero_node/blob/main/android/fastsync), drop the command in your terminal and press enter.
+
+```
+bash <(curl -s https://raw.githubusercontent.com/secretsystems/one_line_dero_node/main/android/fastsync)
+
 
 # windows
 TODO
